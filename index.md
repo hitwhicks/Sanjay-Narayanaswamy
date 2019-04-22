@@ -9,7 +9,7 @@ Working on "Exploring Natural Variation of Flowering Time Networks" for my Maste
 <div style="text-align: justify"> Genotype(genes and their alleles)-Phenotype(observed trait) maps are essential to understanding how Phenotypes arise and how they can evolve in an organism. Today, we understand these map landscapes to be far more extensive than originally thought, with layers of interactions such as epistasis, environmental & developmental cues, etc. sprinkled in to name a few. Therefore, whether it is studying important traits for plant breeders (ex. drought resistance, seed dormancy, shoot/root length, flowering time, etc) or disease traits in humans (ex. Coronary Artery Disease, Bipolar Disorder, Diabetes, Hypertension, etc), unravelling the complexity of these traits and their networks is key. While there are some single gene traits (Mendelian disorders like Huntington's Disease or Cystic Fibrosis), mapping Complex traits (those having polygenic basis like Flowering Time (in plants), Height/Weight and Autoimmune disorders (in humans)) have unravelled many genes with large and small effect sizes, large amounts of underlying allelic variation, as well as trait networks and how they are linked to other traits. My interests align to understanding these complex networks. </div>  
 
 <br>
-### Social Media 
+## Social Media 
 {% if site.twitter_username %}
   <li>
     <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -24,3 +24,7 @@ Working on "Exploring Natural Variation of Flowering Time Networks" for my Maste
     </a>
   </li>
 {% endif %}
+
+### Personal Projects:
+View my Open Science Tools Repository: [Encephaloscosm](https://www.encephalocosm.science/) (collab with [Sriram Sami](https://sriramsami.com/))
+Feel free to add tools you come across as well and help enhance the Open Science Ecosystem for Researchers! 
