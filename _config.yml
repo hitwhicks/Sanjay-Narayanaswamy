@@ -6,5 +6,5 @@ github:
   is_project_page: false
   hostname: false
 endif: true
-social_links:
-  twitter: jekyllrb
+twitter_username:     hitwhicks
+linkedin_username:    sanjay-narayanaswamy
