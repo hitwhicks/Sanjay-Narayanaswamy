@@ -7,4 +7,5 @@ github:
   hostname: false
 endif: true
 author:
+  name: "Sanjay Narayanaswamy"
   email: "sathyasaisanjay[at]gmail.com"
