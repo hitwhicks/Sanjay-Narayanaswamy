@@ -6,6 +6,5 @@ github:
   is_project_page: false
   hostname: false
 endif: true
-author:
-  name: "Sanjay Narayanaswamy"
-  email: "sathyasaisanjay[at]gmail.com"
+social_links:
+  twitter: jekyllrb
