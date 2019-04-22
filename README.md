@@ -1,8 +1,7 @@
-## Welcome to my Personal Page! 
+## About Me
 
-You can use the [editor on GitHub](https://github.com/hitwhicks/sanjay-narayanaswamy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently working on "Exploring Natural Variation of Flowering Time Networks" for my Master Thesis at [Gregor Mendel Institute](https://www.oeaw.ac.at/gmi/). The work involves looking at the effect of allelic variation of Flowering Time GWAS candidates ([The 1001genomes Consortium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4949382/)), on the 'Flowering Time' Network in Arabidopsis thaliana.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
