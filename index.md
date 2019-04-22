@@ -27,8 +27,6 @@ Working on "Exploring Natural Variation of Flowering Time Networks" for my Maste
 
 <br>
 ## Personal Projects:
-<div style="text-align:left" markdown="1">
-![Alt text left](/images/site_logo_unlock.png)
-</div>
+![Alt text left](/images/site_logo_unlock.png left)
 View my Open Science Tools Repository: [Encephaloscosm](https://www.encephalocosm.science/) (collab with [Sriram Sami](https://sriramsami.com/))
 <br> Feel free to add tools you come across as well and help enhance the Open Science Ecosystem for Researchers! 
