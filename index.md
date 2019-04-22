@@ -26,6 +26,6 @@ Working on "Exploring Natural Variation of Flowering Time Networks" for my Maste
 {% endif %}
 
 <br>
-### Personal Projects:
+## Personal Projects:
 View my Open Science Tools Repository: [Encephaloscosm](https://www.encephalocosm.science/) (collab with [Sriram Sami](https://sriramsami.com/))
 <br> Feel free to add tools you come across as well and help enhance the Open Science Ecosystem for Researchers! 
