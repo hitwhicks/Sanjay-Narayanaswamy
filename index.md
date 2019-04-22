@@ -24,6 +24,7 @@ Working on "Exploring Natural Variation of Flowering Time Networks" for my Maste
     </a>
   </li>
 {% endif %}
+[Email me](mailto:sathyasaisanjay@gmail.com)
 
 <br>
 ## Personal Projects:
