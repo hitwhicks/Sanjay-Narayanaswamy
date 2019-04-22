@@ -8,3 +8,13 @@ github:
 endif: true
 twitter_username:     hitwhicks
 linkedin_username:    sanjay-narayanaswamy
+
+social-network-links:
+  rss: true
+  email: "sathyasaisanjay[at]gmail.com"
+  twitter: hitwhicks
+  linkedin: sanjay-narayanaswamy
+  
+share-links-active:
+  twitter: true
+  linkedin: true
