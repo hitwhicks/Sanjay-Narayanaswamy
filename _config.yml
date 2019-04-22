@@ -6,3 +6,5 @@ github:
   is_project_page: false
   hostname: false
 endif: true
+author:
+  email: "sathyasaisanjay[at]gmail.com"
