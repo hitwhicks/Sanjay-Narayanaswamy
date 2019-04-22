@@ -3,3 +3,5 @@ minimal_mistakes_skin: "air"
 title: [Sanjay Narayanaswamy]
 description: [My Personal Page]
 logo : <img src="https://github.com/hitwhicks/Sanjay-Narayanaswamy/blob/master/%E2%80%A2%20Started%20off%20as%20a%20zygote.png" alt="hi" class="inline"/>
+
+theme: jekyll-theme-modernist
